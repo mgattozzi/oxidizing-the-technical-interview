@@ -1,0 +1,13 @@
+[package]
+name = "oxidizing-the-interview"
+version = "0.1.0"
+authors = ["Michael Gattozzi <mgattozzi@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[profile.release]
+panic = "abort"
+lto = true
+codegen-units=1
+opt-level="s"
