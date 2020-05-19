@@ -1,6 +1,6 @@
 # oxidizing-the-interview
 
-Code for the blog post [Oxidizing the interview](). Designed to run on OSX given
+Code for the blog post [Oxidizing the interview](https://blog.mgattozzi.dev/oxidizing-the-technical-interview/). Designed to run on OSX given
 the direct link to libc. To run it invoke:
 
 ```bash
